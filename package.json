@@ -1,0 +1,26 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "Practicing Testing with jest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidxDl/Testing_Practice.git"
+  },
+  "author": "DavidxDl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidxDl/Testing_Practice/issues"
+  },
+  "homepage": "https://github.com/DavidxDl/Testing_Practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
