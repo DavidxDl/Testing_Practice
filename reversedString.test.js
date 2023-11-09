@@ -1,4 +1,4 @@
-import reversedString from "./reversedString.js";
+import reversedString from "./functions/reversedString.js";
 
 test('ReversedString1', () => {
     expect(reversedString('Hello')).toMatch('olleH');
